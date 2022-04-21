@@ -1,6 +1,6 @@
-### Hi, I'm Alex! 👋
+## Hi, I'm Alex! 👋
 
-#### My name is Alex and here are some things about me: 
+### A little more about me:
 
 - 🎓 I'm pursuing my bachelor's degree in Computer Science @ National and Kapodistrian University of Athens
 - 🌱 I’m currently studying about Transformers and their applications in music
